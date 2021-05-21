@@ -6,4 +6,4 @@ Mostly uses the Sympy library.
 See example.py for how to use this.
 
 Was something I created for a small project I did. PR are appreciated, this was something I quickly created so there 
-may be some bugs."# multivariable-function-calculator" 
+may be some bugs.
